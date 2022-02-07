@@ -1,0 +1,118 @@
+Welcome to the factory! 
+Please enter the number of items you wish to be made (at most 50), 
+and our four workers (A, B, C, D) will take it from there. Enjoy!
+
+Number of Items: 7
+
+----------------------------------------------------------------------
+
+Start of Production!
+
+CAUTION: worker B is idle!
+CAUTION: worker C is idle!
+CAUTION: worker D is idle!
+Worker A is working on item 1 <handled by A>
+Worker A is placing item 1 <handled by A> on the belt
+Worker A is working on item 2 <handled by A>
+Worker B is retrieving item 1 <handled by A> from the belt
+Worker B is working on item 1 <handled by A,B>
+Worker A is placing item 2 <handled by A> on the belt
+Worker A is working on item 3 <handled by A>
+Worker B is placing item 1 <handled by A,B> on the belt
+Worker B is retrieving item 2 <handled by A> from the belt
+Worker C is retrieving item 1 <handled by A,B> from the belt
+Worker C is working on item 1 <handled by A,B,C>
+Worker B is working on item 2 <handled by A,B>
+Worker A is placing item 3 <handled by A> on the belt
+Worker A is working on item 4 <handled by A>
+Worker C is placing item 1 <handled by A,B,C> on the belt
+CAUTION: worker C is idle!
+Worker D is retrieving item 1 <handled by A,B,C> from the belt
+Worker D is working on item 1 <handled by A,B,C,D>
+Worker B is placing item 2 <handled by A,B> on the belt
+Worker B is retrieving item 3 <handled by A> from the belt
+Worker C is retrieving item 2 <handled by A,B> from the belt
+Worker C is working on item 2 <handled by A,B,C>
+Worker B is working on item 3 <handled by A,B>
+Worker C is placing item 2 <handled by A,B,C> on the belt
+CAUTION: worker C is idle!
+***************
+Item 1 is done
+***************
+Worker D is retrieving item 2 <handled by A,B,C> from the belt
+Worker D is working on item 2 <handled by A,B,C,D>
+Worker A is placing item 4 <handled by A> on the belt
+Worker A is working on item 5 <handled by A>
+Worker B is placing item 3 <handled by A,B> on the belt
+Worker B is retrieving item 4 <handled by A> from the belt
+Worker B is working on item 4 <handled by A,B>
+Worker C is retrieving item 3 <handled by A,B> from the belt
+Worker C is working on item 3 <handled by A,B,C>
+***************
+Item 2 is done
+***************
+CAUTION: worker D is idle!
+Worker A is placing item 5 <handled by A> on the belt
+Worker A is working on item 6 <handled by A>
+Worker C is placing item 3 <handled by A,B,C> on the belt
+CAUTION: worker C is idle!
+Worker D is retrieving item 3 <handled by A,B,C> from the belt
+Worker D is working on item 3 <handled by A,B,C,D>
+***************
+Item 3 is done
+***************
+CAUTION: worker D is idle!
+Worker B is placing item 4 <handled by A,B> on the belt
+Worker B is retrieving item 5 <handled by A> from the belt
+Worker C is retrieving item 4 <handled by A,B> from the belt
+Worker C is working on item 4 <handled by A,B,C>
+Worker B is working on item 5 <handled by A,B>
+Worker A is placing item 6 <handled by A> on the belt
+Worker A is working on item 7 <handled by A>
+Worker B is placing item 5 <handled by A,B> on the belt
+Worker B is retrieving item 6 <handled by A> from the belt
+Worker B is working on item 6 <handled by A,B>
+Worker B is placing item 6 <handled by A,B> on the belt
+CAUTION: worker B is idle!
+Worker C is placing item 4 <handled by A,B,C> on the belt
+Worker C is retrieving item 5 <handled by A,B> from the belt
+Worker C is working on item 5 <handled by A,B,C>
+Worker D is retrieving item 4 <handled by A,B,C> from the belt
+Worker D is working on item 4 <handled by A,B,C,D>
+***************
+Item 4 is done
+***************
+CAUTION: worker D is idle!
+Worker A is placing item 7 <handled by A> on the belt
+Worker B is retrieving item 7 <handled by A> from the belt
+Worker B is working on item 7 <handled by A,B>
+Worker B is placing item 7 <handled by A,B> on the belt
+Worker C is placing item 5 <handled by A,B,C> on the belt
+Worker C is retrieving item 6 <handled by A,B> from the belt
+Worker C is working on item 6 <handled by A,B,C>
+Worker D is retrieving item 5 <handled by A,B,C> from the belt
+Worker D is working on item 5 <handled by A,B,C,D>
+Worker C is placing item 6 <handled by A,B,C> on the belt
+Worker C is retrieving item 7 <handled by A,B> from the belt
+Worker C is working on item 7 <handled by A,B,C>
+***************
+Item 5 is done
+***************
+Worker D is retrieving item 6 <handled by A,B,C> from the belt
+Worker D is working on item 6 <handled by A,B,C,D>
+***************
+Item 6 is done
+***************
+CAUTION: worker D is idle!
+Worker C is placing item 7 <handled by A,B,C> on the belt
+Worker D is retrieving item 7 <handled by A,B,C> from the belt
+Worker D is working on item 7 <handled by A,B,C,D>
+***************
+Item 7 is done
+***************
+
+End of production!
+
+----------------------------------------------------------------------
+
+Thank you for using our factory. Enjoy your items. Goodbye!
