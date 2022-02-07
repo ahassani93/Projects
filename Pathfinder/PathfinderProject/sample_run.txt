@@ -1,0 +1,81 @@
+Welcome to Pathfinder!
+
+The matrix below from the "distance_matrix" file represents the distances (in miles) among the set of 
+locations in the "location_codes" file. You may modify these input files as you desire. 999999 means a 
+path does not exist between the two locations. Any other number means a path exists, and it represents the 
+distance between the two locations.
+
+       HNL    SFO    LAX    ORD    DFW    PVD    LGA    MIA
+
+HNL    0      999999 2555   999999 999999 999999 999999 999999 
+SFO    999999 0      337    1843   999999 999999 999999 999999 
+LAX    2555   337    0      1743   1233   999999 999999 999999 
+ORD    999999 1843   1743   0      802    849    999999 999999 
+DFW    999999 999999 1233   802    0      999999 1387   1120   
+PVD    999999 999999 999999 849    999999 0      142    999999 
+LGA    999999 999999 999999 999999 1387   142    0      1099   
+MIA    999999 999999 999999 999999 1120   999999 1099   0      
+
+Select a start and end location from above, and I will show you the shortest path and its distance.
+
+Start Location: HNL
+
+End Location: PVD
+
+The shortest path between HNL and PVD is:
+HNL -> LAX -> ORD -> PVD
+The distance of this path is 5147 miles.
+
+Would you like another path (y,n)? y
+
+Start Location: PVD
+
+End Location: HNL
+
+The shortest path between PVD and HNL is:
+PVD -> ORD -> LAX -> HNL
+The distance of this path is 5147 miles.
+
+Would you like another path (y,n)? y
+
+Start Location: SFO
+
+End Location: MIA
+
+The shortest path between SFO and MIA is:
+SFO -> LAX -> DFW -> MIA
+The distance of this path is 2690 miles.
+
+Would you like another path (y,n)? y
+
+Start Location: LAX
+
+End Location: PVD
+
+The shortest path between LAX and PVD is:
+LAX -> ORD -> PVD
+The distance of this path is 2592 miles.
+
+Would you like another path (y,n)? y
+
+Start Location: SFO
+
+End Location: LGA
+
+The shortest path between SFO and LGA is:
+SFO -> ORD -> PVD -> LGA
+The distance of this path is 2834 miles.
+
+Would you like another path (y,n)? y
+
+Start Location: MIA
+
+End Location: ORD
+
+The shortest path between MIA and ORD is:
+MIA -> DFW -> ORD
+The distance of this path is 1922 miles.
+
+Would you like another path (y,n)? n
+
+Thank you for using Pathfinder. Goodbye!
