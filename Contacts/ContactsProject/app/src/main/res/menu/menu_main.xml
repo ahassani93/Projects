@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.contactsproject.MainActivity">
+
+    <group>
+        <item
+            android:id="@+id/menu_show_all_contacts"
+            android:title="@string/show_all_contacts" />
+        <item
+            android:id="@+id/menu_add_contact"
+            android:title="@string/add_contact" />
+        <item
+            android:id="@+id/menu_find_contact"
+            android:title="@string/find_contact" />
+        <item
+            android:id="@+id/menu_sort_contacts_a_z"
+            android:title="@string/sort_contacts_a_z" />
+        <item
+            android:id="@+id/menu_sort_contacts_z_a"
+            android:title="@string/sort_contacts_z_a" />
+    </group>
+</menu>
