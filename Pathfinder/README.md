@@ -1,6 +1,6 @@
-Author: Ari Hassani
+**Author:** Ari Hassani
 
-Description: A pathfinder application that uses Dijkstra's algorithm to find the
+**Description:** A pathfinder application that uses Dijkstra's algorithm to find the
 shortest path and its distance between two locations in a map. The map is represented
 by a square matrix in the "distance_matrix" file. Each number in a row and column
 represents the distance between the two locations. A "0" is the distance of a location
@@ -14,6 +14,6 @@ between them. It also prints the distance of the shortest path. Output goes to c
 The application repeats by asking the user if they want another path calculated. If no
 is selected, the program ends.
 
-Language: Java
+**Language:** Java
 
-References: Dijkstra's shortest path algorithm
+**References:** Dijkstra's shortest path algorithm
