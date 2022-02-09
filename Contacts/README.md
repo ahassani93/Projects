@@ -1,6 +1,6 @@
-Author: Ari Hassani
+**Author:** Ari Hassani
 
-Description: A contacts application for Android mobile devices with Room database,
+**Description:** A contacts application for Android mobile devices with Room database,
 LiveData, RecyclerView that holds each contact as a card, two text boxes for name
 and phone, an options menu that includes "Show All Contacts", "Add Contact",
 "Find Contact", "Sort Contacts A - Z", and "Sort Contacts Z - A". Each card
@@ -10,6 +10,6 @@ has been implemented, and errors appear as a Toast with related messages. The
 "Find Contact" option is programmed in such a way that entering only a part of
 the name is enough to find the contact.
 
-Language: Java
+**Language:** Java
 
-References: Android Studio Development Essentials 3.5 Java Edition Chapter 66
+**References:** Android Studio Development Essentials 3.5 Java Edition Chapter 66
