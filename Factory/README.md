@@ -1,6 +1,6 @@
-Author: Ari Hassani
+**Author:** Ari Hassani
 
-Description: A simulation of a factory production line with three connected conveyor
+**Description:** A simulation of a factory production line with three connected conveyor
 belts and four workers. There are three types of workers, so the middle two workers
 are of the same type. The first worker works on an object and places it on the belt.
 The second and third workers retrieve an object, work on it, and place it on the belt.
@@ -14,4 +14,4 @@ to make the simulation realistic. Each event appears as a message. Input comes f
 the keyboard, and the only input is the number of items the user wishes to be made.
 Output goes to the console.
 
-Language: Java
+**Language:** Java
