@@ -1,6 +1,6 @@
-Author: Ari Hassani
+**Author:** Ari Hassani
 
-Description: A program that creates an array of structs
+**Description:** A program that creates an array of structs
 of book records. This program reads in a database of
 books from the file "librarydatabase.txt", loads them
 into the array of structs, and sorts the array based on
@@ -26,4 +26,4 @@ W author (List any book titles written by the author)
 F title (Display all information about a book, standard format)
 B title (Display title and ISBN )
 
-Language: C++
+**Language:** C++
