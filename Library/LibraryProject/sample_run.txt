@@ -1,0 +1,170 @@
+Title: Answers to C++ Problems
+Authors: P. F. Geyer
+Publisher: Uwish Publishers
+ISBN: 9283746593625 Price: 99.99 Number of Copies: 0
+
+Title: Babies and Other Hazards of Sex
+Authors: David Barry
+Publisher: Rodale Books
+ISBN: 9780878575107 Price: 12.95 Number of Copies: 101
+
+Title: C Programming Language
+Authors: Brian W. Kernighan Dennis M. Ritchie
+Publisher: Prentice Hall
+ISBN: 0131103628 Price: 67.00 Number of Copies: 37
+
+Title: Deadpool: The Complete Collection - Volume 1
+Authors: Daniel Way Andy Diggle
+Publisher: Marvel
+ISBN: 9780785185321 Price: 21.34 Number of Copies: 234
+
+Title: Harry Potter in Yet Another Stupid Adventure
+Authors: J. K. Rowling
+Publisher: Bloomsbury
+ISBN: 0123565432234 Price: 234.23 Number of Copies: 1276
+
+Title: How to Make Millions
+Authors: P. T. Barnum Don J. Trump Billy Gates
+Publisher: Born Every Minute Publishers
+ISBN: 4756424656343 Price: 99.95 Number of Copies: 144
+
+Title: Lion, the Witch and the Wardrobe
+Authors: C. S. Lewis
+Publisher: Harper Collins Childs
+ISBN: 0006716873 Price: 14.99 Number of Copies: 14
+
+Title: Lord of the Rings
+Authors: J. R. R. Tolkien
+Publisher: Mariner Books
+ISBN: 0618640150 Price: 20.00 Number of Copies: 165
+
+Title: Peter Rabbit
+Authors: Beatrix Potter
+Publisher: Warne
+ISBN: 9780723258735 Price: 6.99 Number of Copies: 27
+
+Title: The Cuckoo's Egg
+Authors: Clifford Stoll
+Publisher: Gallery
+ISBN: 9781416507789 Price: 16.00 Number of Copies: 41
+
+Title: The Princess Bride
+Authors: William Goldman
+Publisher: Harcourt
+ISBN: 9780156035217 Price: 12.75 Number of Copies: 12
+
+Title: The Truth About Peter Rabbit
+Authors: Flopsy Mopsy Cotton-tail McGregor
+Publisher: Underground Press
+ISBN: 3846576839465 Price: 25.00 Number of Copies: 3
+
+Title: The Two Towers
+Authors: J. R. R. Tolkien
+Publisher: Bloomsbury
+ISBN: 4756352428 Price: 16.00 Number of Copies: 23
+
+For the book: Lord of the Rings there are 165 copies.
+
+Catch Me If You Can not found.
+
+For 3846576839465 there are 3 copies.
+
+3453245534533 not found.
+
+For 0618640150 there are 165 copies.
+
+Added the new book: Catch Me If You Can
+
+For the book: The Princess Bride there are 12 copies.
+
+For 4756424656343 we subtracted 12 copies.
+
+For 3846576839465 there are now 100 copies.
+
+0131103628345 not found.
+
+This transaction can't be done, because the number of copies to set is negative.
+
+For 0123565432234 we added 1010 copies.
+
+For 0131103628 we added 24 copies.
+
+Book list for Frank Abagnale:
+Catch Me If You Can
+
+Book list for Cotton-tail:
+The Truth About Peter Rabbit
+
+Book list for David Barry:
+Babies and Other Hazards of Sex
+
+Title: Answers to C++ Problems
+Authors: P. F. Geyer
+Publisher: Uwish Publishers
+ISBN: 9283746593625 Price: 99.99 Number of Copies: 0
+
+Title: Babies and Other Hazards of Sex
+Authors: David Barry
+Publisher: Rodale Books
+ISBN: 9780878575107 Price: 12.95 Number of Copies: 101
+
+Title: C Programming Language
+Authors: Brian W. Kernighan Dennis M. Ritchie
+Publisher: Prentice Hall
+ISBN: 0131103628 Price: 67.00 Number of Copies: 61
+
+Title: Catch Me If You Can
+Authors: Stan Redding Frank Abagnale
+Publisher: Broadway
+ISBN: 9780767905381 Price: 15.99 Number of Copies: 123
+
+Title: Deadpool: The Complete Collection - Volume 1
+Authors: Daniel Way Andy Diggle
+Publisher: Marvel
+ISBN: 9780785185321 Price: 21.34 Number of Copies: 234
+
+Title: Harry Potter in Yet Another Stupid Adventure
+Authors: J. K. Rowling
+Publisher: Bloomsbury
+ISBN: 0123565432234 Price: 234.23 Number of Copies: 2286
+
+Title: How to Make Millions
+Authors: P. T. Barnum Don J. Trump Billy Gates
+Publisher: Born Every Minute Publishers
+ISBN: 4756424656343 Price: 99.95 Number of Copies: 132
+
+Title: Lion, the Witch and the Wardrobe
+Authors: C. S. Lewis
+Publisher: Harper Collins Childs
+ISBN: 0006716873 Price: 14.99 Number of Copies: 14
+
+Title: Lord of the Rings
+Authors: J. R. R. Tolkien
+Publisher: Mariner Books
+ISBN: 0618640150 Price: 20.00 Number of Copies: 165
+
+Title: Peter Rabbit
+Authors: Beatrix Potter
+Publisher: Warne
+ISBN: 9780723258735 Price: 6.99 Number of Copies: 27
+
+Title: The Cuckoo's Egg
+Authors: Clifford Stoll
+Publisher: Gallery
+ISBN: 9781416507789 Price: 16.00 Number of Copies: 41
+
+Title: The Princess Bride
+Authors: William Goldman
+Publisher: Harcourt
+ISBN: 9780156035217 Price: 12.75 Number of Copies: 12
+
+Title: The Truth About Peter Rabbit
+Authors: Flopsy Mopsy Cotton-tail McGregor
+Publisher: Underground Press
+ISBN: 3846576839465 Price: 25.00 Number of Copies: 100
+
+Title: The Two Towers
+Authors: J. R. R. Tolkien
+Publisher: Bloomsbury
+ISBN: 4756352428 Price: 16.00 Number of Copies: 23
+

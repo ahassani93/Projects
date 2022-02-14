@@ -1,0 +1,98 @@
+Peter Rabbit
+1
+Beatrix Potter
+Warne
+978-0723258735
+6.99
+27
+Lion, the Witch and the Wardrobe
+1
+C. S. Lewis
+Harper Collins Childs
+000-671-687-3
+14.99
+14
+Harry Potter in Yet Another Stupid Adventure
+1
+J. K. Rowling
+Bloomsbury
+01235-65432-234
+234.23
+1276
+C Programming Language
+2
+Brian W. Kernighan
+Dennis M. Ritchie
+Prentice Hall
+0131103628
+67.00
+37
+Answers to C++ Problems
+1
+P. F. Geyer
+Uwish Publishers
+9283746593625
+99.99
+0
+Lord of the Rings
+1
+J. R. R. Tolkien
+Mariner Books
+0618640150
+20.00
+165
+The Truth About Peter Rabbit
+4
+Flopsy
+Mopsy
+Cotton-tail
+McGregor
+Underground Press
+3846576839465
+25.00
+3
+Deadpool: The Complete Collection - Volume 1
+2
+Daniel Way
+Andy Diggle
+Marvel
+978-0785185321
+21.34
+234
+How to Make Millions
+3
+P. T. Barnum
+Don J. Trump
+Billy Gates
+Born Every Minute Publishers
+475642-4656-34-3
+99.95
+144
+The Cuckoo's Egg
+1
+Clifford Stoll
+Gallery
+978-1416507789
+16.00
+41  
+Babies and Other Hazards of Sex
+1
+David Barry
+Rodale Books
+978-0878575107
+12.95
+101
+The Two Towers
+1
+J. R. R. Tolkien
+Bloomsbury
+4756352428
+16.00
+23
+The Princess Bride
+1
+William Goldman
+Harcourt
+978-0156035217
+12.75
+12

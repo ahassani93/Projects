@@ -1,0 +1,26 @@
+P
+T Lord of the Rings
+T Catch Me If You Can
+I 3846576839465
+I 3453245534533
+I 0618640-150
+N
+Catch Me If You Can
+2
+Stan Redding
+Frank Abagnale
+Broadway
+9780767905381
+15.99
+123
+T The Princess Bride
+R 475642-4656-343 12
+S 3846576839465 100
+S 0131103628345 10
+S 3846576839465 -1
+A 0123565432234 1010
+A 013-11-03628 24
+W Frank Abagnale
+W Cotton-tail
+W David Barry
+P
