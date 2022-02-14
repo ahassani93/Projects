@@ -15,15 +15,15 @@ commands and performing the corresponding actions.
 Output goes to the console (depending on the command).
 The list of command codes are given below.
 
-P (print database with full book information ordered by title with a blank line between books)
-T title (Display title and available copies)
-I isbn (Display ISBN and number of copies)
-S isbn int (Set number of copies to int; Verify that int is not negative)
-R isbn int (Reduce number of copies by int; Count should never be negative)
-A isbn int (Add int to number of copies)
-N (Add new title – data that follows for one book will be formatted like the initial data file)
-W author (List any book titles written by the author)
-F title (Display all information about a book, standard format)
-B title (Display title and ISBN )
+P (print database with full book information ordered by title with a blank line between books)\
+T title (Display title and available copies)\
+I isbn (Display ISBN and number of copies)\
+S isbn int (Set number of copies to int; Verify that int is not negative)\
+R isbn int (Reduce number of copies by int; Count should never be negative)\
+A isbn int (Add int to number of copies)\
+N (Add new title – data that follows for one book will be formatted like the initial data file)\
+W author (List any book titles written by the author)\
+F title (Display all information about a book, standard format)\
+B title (Display title and ISBN )\
 
 **Language:** C++
