@@ -24,6 +24,6 @@ A isbn int (Add int to number of copies)\
 N (Add new title – data that follows for one book will be formatted like the initial data file)\
 W author (List any book titles written by the author)\
 F title (Display all information about a book, standard format)\
-B title (Display title and ISBN )\
+B title (Display title and ISBN)
 
 **Language:** C++
